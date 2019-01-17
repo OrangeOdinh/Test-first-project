@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ListAlarm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LAlarms>
+    <Alarm>
+      <TimeAlarm>
+        <X>12</X>
+        <Y>40</Y>
+      </TimeAlarm>
+      <DayAlarm>
+        <int>0</int>
+        <int>1</int>
+        <int>1</int>
+        <int>1</int>
+        <int>1</int>
+        <int>0</int>
+        <int>0</int>
+      </DayAlarm>
+    </Alarm>
+  </LAlarms>
+</ListAlarm>

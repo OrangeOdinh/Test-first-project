@@ -1,0 +1,14 @@
+C:\Users\Orange\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csprojAssemblyReference.cache
+C:\Users\Orange\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Form1.resources
+C:\Users\Orange\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Properties.Resources.resources
+C:\Users\Orange\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.cache
+C:\Users\Orange\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.CoreCompileInputs.cache
+C:\Users\Orange\source\repos\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe.config
+C:\Users\Orange\source\repos\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe
+C:\Users\Orange\source\repos\AnalogClock\AnalogClock\bin\Debug\AnalogClock.pdb
+C:\Users\Orange\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.exe
+C:\Users\Orange\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb
+C:\Users\Orange\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Form2.resources
+C:\Users\Orange\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Form3.resources
+C:\Users\Orange\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.AlarmControl.resources
+C:\Users\Orange\source\repos\AnalogClock\AnalogClock\obj\Debug\AnalogClock.AddAlarmControl.resources
